@@ -11,8 +11,9 @@ namespace Prueba6
         static void Main(string[] args)
         {
             //este es mi comentario Herzio
-            //este es el parrafo de prueba1
+            var prueba1;
             //parrafo merge 2
+            //seeeeeeeeeee
         }
     }
 }
