@@ -12,6 +12,7 @@ namespace Prueba6
         {
             //este es mi comentario Herzio
             //este es el parrafo de prueba1
+            //parrafo merge 2
         }
     }
 }
